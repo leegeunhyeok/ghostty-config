@@ -1,0 +1,28 @@
+window-theme = dark
+window-padding-x = 4
+window-padding-y = 4
+
+font-size = 12
+font-family = Hack Nerd Font
+
+background = #1e1e1e
+foreground = #c7c7c7
+selection-background = #c3c2c3
+selection-foreground = #1e1e1e
+cursor-color = #d5d5d5
+palette = 0=#000000
+palette = 1=#e46d63
+palette = 2=#58c18f
+palette = 3=#e9e64d
+palette = 4=#77abd9
+palette = 5=#d38dd9
+palette = 6=#60c1de
+palette = 7=#eaeaea
+palette = 8=#656565
+palette = 9=#e46d63
+palette = 10=#58c18f
+palette = 11=#e9e64d
+palette = 12=#77abd9
+palette = 13=#d38dd9
+palette = 14=#60c1de
+palette = 15=#eaeaea
